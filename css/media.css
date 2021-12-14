@@ -1,0 +1,23 @@
+
+
+@media(min-width:0px) and (max-width:768px){
+    .cvheader {
+       
+        text-align: center;
+    }
+    .cvhe_Content {
+        margin-top: 20px;
+        margin-bottom: 24px;
+    }
+
+
+
+}
+
+
+@media(min-width:0px) and (max-width:426px){
+
+
+
+
+}
